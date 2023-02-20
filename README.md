@@ -1,7 +1,8 @@
-
+ [![Discord Presence](https://lanyard.cnrad.dev/api/560917924257464320?hideDiscrim=true)](https://discord.com/users/560917924257464320)
 
     <br>
-    WİNDOWS DEFENDERİ KAPATMASSANIZ ÇALIŞMAZ HATA VERECEKTİR SONUÇTA RAT PROGRAMI NORMAL ALGILAMASI BU SEBEP LE LÜTFEN WİNDOWS DEFENDERİNİZİ KAPATINIZ İYİ KULLANIMLAR <a href="https://discord.gg/CpfDnc9HGm">Discord</a>
+    ## not arkadaşlar sonuçta rat oluşturucaksınız windows defenderi kapatmayı unutmayın aksi takdirde virüs olarak algılayacaktır ve baız dosyalar silip sorun yaratacaktır bu bilgiiyide geçeyimde sonra abi çalışmadı abi böyle abi şöyle demeyin discord gelin yapamassanız aq neyse iyi günler star ve fork atın hayrına aq kaliteli şeyler paylaşıoz
+ <a href="https://discord.gg/CpfDnc9HGm">Discord</a>
 </div>
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
