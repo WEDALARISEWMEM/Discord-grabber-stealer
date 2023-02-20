@@ -49,7 +49,7 @@
     -   Place stub in appdata
     -   Add to startup registry
 
-## Install
+## gerekli yazılımlar
 
 ### Prerequisites
 
@@ -57,7 +57,7 @@
 -   [Python](https://www.python.org/downloads/release/python-3109/)
 -   [Git](https://git-scm.com/download/win)
 
-### Setup
+### Kurulum
 
 1. zip'i indir
 2. masaütüne çıkar
@@ -78,13 +78,9 @@
 
 View the [contributing guidelines](CONTRIBUTING.md) for more information on how you can help out.
 
-## License
-
-Empyrean is licensed under the <a href="https://mit-license.org/">MIT License</a>.
-
-## Errors?
+## Yardım & Destek
 
 -   Make an [issue](https://github.com/addi00000/empyrean/issues)
 -   Join the [Discord](https://discord.gg/GudVbfd9ZU)
 
-<img src="img/footer.png">
+
