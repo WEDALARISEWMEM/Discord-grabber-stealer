@@ -1,4 +1,4 @@
-<img src="img/banner.png" width="100%" height="100%" />
+
 
 <div align="center">
     <img src="https://img.shields.io/github/languages/top/addi00000/empyrean?color=%23000000">
@@ -83,4 +83,4 @@ View the [contributing guidelines](CONTRIBUTING.md) for more information on how 
 -   Make an [issue](https://github.com/addi00000/empyrean/issues)
 -   Join the [Discord](https://discord.gg/GudVbfd9ZU)
 
-
+<img src="img/footer.png">
