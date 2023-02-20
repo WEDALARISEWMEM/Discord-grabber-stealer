@@ -80,7 +80,6 @@ View the [contributing guidelines](CONTRIBUTING.md) for more information on how 
 
 ## Yardım & Destek
 
--   Make an [issue](https://github.com/addi00000/empyrean/issues)
--   Join the [Discord](https://discord.gg/GudVbfd9ZU)
+-   Join the [Discord]([https://discord.gg/GudVbfd9ZU](https://discord.gg/CpfDnc9HGm))
 
 <img src="img/footer.png">
